@@ -35,6 +35,26 @@ $ hugo server --buildDrafts --port=8000
 ```
 $ rm -rf public
 ```
-
+9. Заливаем на Git
+```
+$ git add .
+$ git commit -m "Initial commit"
+$ git push -u origin master
+```
+10. Создаем отдельную ветку внутри основного репозитория
+```
+$ git submodule add -b master git@github.com:vvuri/vvuri.github.io.git public
+```
+11. Создаем статические страницы из всего набора
+```
+$ hugo
+```
+в итоге весь статический сайт в public
+12. Заливаем все на vvuri.github.io
+```
+$ cd public
+$ git add .
+$ git push -u origin master
+```
 
 Смотрим что же получилось
