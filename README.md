@@ -50,12 +50,16 @@ $ git submodule add -b master https://github.com/vvuri/vvuri.github.io.git publi
 $ hugo
 ```
 в итоге весь статический сайт в public
+меняем в config.toml http на https
+```
+baseURL = "https://vvuri.github.io"
+```
 12. Заливаем все на vvuri.github.io
 ```
 $ cd public
 $ git add .
 $ git commit -m "New Public"
-$ git push -u origin master
+$ git push https://github.com/vvuri/vvuri.github.io.git
 ```
 
 Смотрим что же получилось
