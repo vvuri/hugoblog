@@ -43,7 +43,7 @@ $ git push -u origin master
 ```
 10. Создаем отдельную ветку внутри основного репозитория
 ```
-$ git submodule add -b master git@github.com:vvuri/vvuri.github.io.git public
+$ git submodule add -b master https://github.com/vvuri/vvuri.github.io.git public
 ```
 11. Создаем статические страницы из всего набора
 ```
@@ -54,6 +54,7 @@ $ hugo
 ```
 $ cd public
 $ git add .
+$ git commit -m "New Public"
 $ git push -u origin master
 ```
 
