@@ -27,17 +27,15 @@ Groovy  в качестве встроенного языка сценариев
 
 
 #### Restart
-> ```# java -jar /var/cache/jenkins/war/WEB-INF/jenkins-cli.jar -s http://localhost:8080/ restart```
+```# java -jar /var/cache/jenkins/war/WEB-INF/jenkins-cli.jar -s http://localhost:8080/ restart```
 
 после включение Config Global Sequrity - Enable - Anyone 
 можно ходить с локальной машины на удаленный дженкинс
-```# java -jar jenkins-cli.jar -s http://10.0.2.175:8080/ version```
+```# java -jar jenkins-cli.jar -s http://10.0.2.175:8080/ version ```
 
 
 #### Groovy pipeline
-> ```
-node {
+> node {
     stage 'Does sshpass work?'
     sh 'sshpass -p \'password\' ssh user@host "ls; hostname; whois google.com;"'
 }
-```

@@ -15,12 +15,14 @@ title = "WebSocket in Python"
 
 Есть rfc6455
 Поверх TCP, встоен в ключевые браузеры и доступен из JS
-JS:  var ws = new WebSocket("ws://127.0.0.1:5678/"),
+```JavaScript 
+var ws = new WebSocket("ws://127.0.0.1:5678/")
+```
 
 http://websockets.readthedocs.io/en/latest/
-{{< highlight bash >}}
+```bash
 $ pip install asyncio.
 $ pip install websockets
-{{< /highlight >}}
+```
 требуется так же asyncio on Python 3.3+
 Есть готовый пример http://websockets.readthedocs.io/en/latest/intro.html

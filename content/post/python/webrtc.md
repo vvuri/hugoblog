@@ -13,6 +13,6 @@ WebRTC - это конкурент WebSocket но несколько с дург
 <!--more-->
 
 API:
-    MediaStream - медиаканал с камероф и микрофоном пользователя
-    RTCPeerConnection - соединение точка-точка двух клиентов
-    RTCDataChannel
+ - MediaStream - медиаканал с камероф и микрофоном пользователя
+ - RTCPeerConnection - соединение точка-точка двух клиентов
+ - RTCDataChannel

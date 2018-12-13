@@ -13,14 +13,10 @@ description = ""
 first step in blog
 
 code on Python:
-{{< highlight python >}}
+```python
 def code():
     m = 5
     d = 6
     if d < m:
         print("Ok")
-{{< /highlight >}}
-
-{{< gist spf13 7896402 >}}
-
-{{< gist vvuri 777b810 >}}
+```        
