@@ -11,13 +11,6 @@ author = "vvuri"
 theme = "pixyll"
 disqusShortname = "vvuri"
 
-[Languages]
-[Languages.en]
-weight = 1
-
-[Languages.ru]
-weight = 2
-
 [indexes]
   category = "categories"
   tag = "tags"
@@ -26,4 +19,6 @@ weight = 2
   search_engine = false
   twitter_username = "vvuri"
   paginate = true
+  description = "Education Python, Golang, Machine Learning and Robotics. Work in QA."
  
+
