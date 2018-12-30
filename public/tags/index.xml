@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Personal Site</title>
+    <link>http://vvuri.github.io/tags/</link>
+    <description>Recent content in Tags on Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 20 Nov 2017 23:27:56 +0300</lastBuildDate>
+    
+	<atom:link href="http://vvuri.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Debian</title>
+      <link>http://vvuri.github.io/tags/debian/</link>
+      <pubDate>Mon, 20 Nov 2017 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>http://vvuri.github.io/tags/devops/</link>
+      <pubDate>Mon, 20 Nov 2017 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://vvuri.github.io/tags/git/</link>
+      <pubDate>Mon, 20 Nov 2017 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gitlab</title>
+      <link>http://vvuri.github.io/tags/gitlab/</link>
+      <pubDate>Mon, 20 Nov 2017 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://vvuri.github.io/tags/golang/</link>
+      <pubDate>Thu, 13 Dec 2018 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ide</title>
+      <link>http://vvuri.github.io/tags/ide/</link>
+      <pubDate>Thu, 13 Dec 2018 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/ide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasmine</title>
+      <link>http://vvuri.github.io/tags/jasmine/</link>
+      <pubDate>Sun, 16 Apr 2017 14:19:23 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/jasmine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://vvuri.github.io/tags/javascript/</link>
+      <pubDate>Thu, 13 Dec 2018 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>http://vvuri.github.io/tags/jenkins/</link>
+      <pubDate>Mon, 20 Nov 2017 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://vvuri.github.io/tags/linux/</link>
+      <pubDate>Mon, 20 Nov 2017 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://vvuri.github.io/tags/python/</link>
+      <pubDate>Thu, 13 Dec 2018 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qa</title>
+      <link>http://vvuri.github.io/tags/qa/</link>
+      <pubDate>Mon, 20 Nov 2017 23:27:56 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Test</title>
+      <link>http://vvuri.github.io/tags/unit-test/</link>
+      <pubDate>Sun, 16 Apr 2017 14:19:23 +0300</pubDate>
+      
+      <guid>http://vvuri.github.io/tags/unit-test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
