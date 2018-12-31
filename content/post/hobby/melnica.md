@@ -1,9 +1,9 @@
 ---
 title: "Мельница на Нашем"
 date: 2018-12-10T22:47:58+03:00
-#tags = ["folk", "rock"]
-#description = ""
-#categories = ["Music"]
+tags: ["folk", "rock"]
+description: "Фолк-рок"
+categories: ["Music"]
 ---
 # Мельница - воздух
 Начинаю свой блог с группы Мельница.

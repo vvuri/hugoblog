@@ -1,4 +1,10 @@
-
+---
+title: "Hugo on GitHub"
+date: 2018-12-10T22:47:58+03:00
+tags: ["github", "JavaScript", "Golang" ]
+description: "Разработка"
+category: "Developmen"
+---
 
 Разнесение кода и статичкских страниц в двух репозиториях
 1. Создаем репозиторий и клонируем его 
@@ -58,4 +64,19 @@ $ cd public
 $ git add .
 $ git commit -m "New Public"
 $ git push https://github.com/vvuri/vvuri.github.io.git
+```
+13. Если надо удалить субмодуль 
+```
+git submodule deinit <path_to_submodule>
+git rm <path_to_submodule>
+git commit-m "Removed submodule "
+rm -rf .git/modules/<path_to_submodule>
+```
+14. В дальнейшем
+```
+$ hugo
+$ cd public
+$ git add .
+$ git commit -m "New Public"
+$ git push -u origin master
 ```
