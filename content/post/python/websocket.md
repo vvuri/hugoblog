@@ -14,7 +14,7 @@ title = "WebSocket in Python"
 <!--more-->
 
 Есть rfc6455
-Поверх TCP, встоен в ключевые браузеры и доступен из JS
+Поверх TCP, встроен в ключевые браузеры и доступен из JS
 ```JavaScript 
 var ws = new WebSocket("ws://127.0.0.1:5678/")
 ```

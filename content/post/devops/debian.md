@@ -7,7 +7,7 @@ date = "2017-11-20T23:27:56+03:00"
 title = "Debian"
 +++
 
-#### Архитекутура и компоненты ПК
+#### Архитектура и компоненты ПК
 ```bash
 $ less /proc/cpuinfo 
 $ lscpu
@@ -150,7 +150,7 @@ PermitRootLogin no
 
 #### Sound
 > [pulseaudio](https://wiki.archlinux.org/index.php/PulseAudio/Examples_%28%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%29)
-> что бы сделать звук с наушников по-умоляанию:
+> что бы сделать звук с наушников по-умолчанию:
 ```bash
 sudo vi /etc/pulse/daemon.conf
 default-sample-channels = 2

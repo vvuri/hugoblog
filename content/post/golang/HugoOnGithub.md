@@ -6,7 +6,7 @@ description: "Разработка"
 category: "Developmen"
 ---
 
-Разнесение кода и статичкских страниц в двух репозиториях
+Разнесение кода и статических страниц в двух репозиториях
 1. Создаем репозиторий и клонируем его 
 ```bash
 $ git clone https://github.com/vvuri/hugoblog.git
@@ -80,3 +80,4 @@ $ git add .
 $ git commit -m "New Public"
 $ git push -u origin master
 ```
+
