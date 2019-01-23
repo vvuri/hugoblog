@@ -1,11 +1,10 @@
-
----
-title: "Книга ML Python Пример 0"
-date: 2019-01-03
-description: ""
-tags: ["ML", "Python"]
-draft: true
----
++++
+title = "Книга ML Python Пример 0"
+date = 2019-01-03
+description = ""
+tags = ["ML", "Python"]
+draft = true
++++
 
 Книга ML Python Пример 0
 
