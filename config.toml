@@ -7,9 +7,10 @@ builddrafts = false
 baseUrl = ""
 canonifyurls = true
 title = "Personal Site"
-author = "vvuri"
-theme = "pixyll"
+theme = "bootstrap-bp-hugo-theme"
+startPageColumns = true
 disqusShortname = "vvuri"
+copyright = "Yuri Vinogradov"
 
 [indexes]
   category = "categories"
@@ -20,5 +21,20 @@ disqusShortname = "vvuri"
   twitter_username = "vvuri"
   paginate = true
   description = "Education Python, Golang, Machine Learning and Robotics. Work in QA."
- 
+  #images = ["logo.jpg"]
+  showPostSummary = true
+  startPageColumns = true
 
+[author]
+  name = "Yuri Vinogradov"
+  homepage = "http://vvuri.github.io/"
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    post = "/:year/:month/:slug/"
+    pages = "/:slug/"
+    page = "/:slug/"

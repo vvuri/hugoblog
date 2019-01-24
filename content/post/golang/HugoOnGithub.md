@@ -80,4 +80,8 @@ $ git add .
 $ git commit -m "New Public"
 $ git push -u origin master
 ```
-
+15. Другая тема
+```
+$ cd themes
+$ git clone https://github.com/spech66/bootstrap-bp-hugo-theme.git
+```
