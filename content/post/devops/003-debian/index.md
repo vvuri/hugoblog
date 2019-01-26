@@ -1,11 +1,13 @@
-+++
-Categories = ["Linux"]
-Tags = ["DevOps","Linux","Debian"]
-Description = ""
-menu = "devops"
-date = "2017-11-20T23:27:56+03:00"
-title = "Debian"
-+++
+---
+categories: ["Linux"]
+tags: ["DevOps","Linux","Debian"]
+description: ""
+menu: 
+    main:
+        parent: "DevOps"
+date: "2017-11-20T23:27:56+03:00"
+title: "Debian"
+---
 
 #### Архитектура и компоненты ПК
 ```bash

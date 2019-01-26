@@ -1,11 +1,13 @@
-+++
-Categories = []
-Tags = ["DevOps","GIT","GITLAB"]
-Description = ""
-menu = "devops"
-date = "2017-11-20T23:27:56+03:00"
-title = "GIT"
-+++
+---
+categories: []
+tags: ["DevOps","GIT","GITLAB"]
+description: ""
+menu: 
+    main:
+        parent: "DevOps"
+date: "2017-11-20T23:27:56+03:00"
+title: "GIT"
+---
 
 #### GIT GITLAB 
 - [Git Flow](https://ericdouglas.github.io/2016/04/01/Git-Useful-Tips/)

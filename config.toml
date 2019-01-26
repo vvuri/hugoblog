@@ -6,7 +6,7 @@ publishdir = "public"
 builddrafts = false
 baseUrl = ""
 canonifyurls = true
-title = "Personal Site"
+title = "All blogs"
 theme = "bootstrap-bp-hugo-theme"
 startPageColumns = true
 disqusShortname = "vvuri"
@@ -26,9 +26,8 @@ copyright = "Yuri Vinogradov"
   startPageColumns = true
 
 [author]
-  name = "Yuri Vinogradov"
-  homepage = "http://vvuri.github.io/"
-
+  name = "vvuri"
+  
 [sitemap]
     changefreq = "weekly"
     priority = 0.5

@@ -1,11 +1,13 @@
-+++
-Categories = ["Linux"]
-Tags = ["DevOps","Linux","Ansible"]
-Description = ""
-menu = "devops"
-date = "2019-01-23"
-title = "Ansible"
-+++
+---
+categories: ["Linux"]
+tags: ["DevOps","Linux","Ansible"]
+description: ""
+menu: 
+    main:
+        parent: "DevOps"
+date: "2019-01-23"
+title: "Ansible"
+---
 
 #### Install
 ```bash

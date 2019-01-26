@@ -1,11 +1,13 @@
-+++
-tegories = []
-Tags = ["QA","Jenkins","GITLAB"]
-Description = ""
-menu = "testing"
-date = "2017-11-20T23:27:56+03:00"
-title = "Jenkins"
-+++
+---
+categories: []
+tags: ["QA","Jenkins","GITLAB"]
+description: ""
+menu: 
+    main:
+        parent: "QA testing"
+date: "2017-11-20T23:27:56+03:00"
+title: "Jenkins"
+---
 
 **Jenkins** - инструмент автоматизации. Бесплатен. 
 Groovy  в качестве встроенного языка сценариев.

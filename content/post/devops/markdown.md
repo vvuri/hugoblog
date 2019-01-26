@@ -1,12 +1,14 @@
-﻿+++
-categories = ["Designe"]
-description = "Разметака текста"
-date = "2017-04-16T14:24:08+03:00"
-title = "Markdown"
-draft = false
-tags = []
-
-+++
+﻿---
+categories: ["Designe"]
+description: "Разметака текста"
+date: "2017-04-16T14:24:08+03:00"
+title: "Markdown"
+draft: false
+tags: []
+menu: 
+    main:
+        parent: "DevOps"
+---
 
 Достаточно подробно https://learn.getgrav.org/content/media
 описана так же шапка - это линки на папки и маршрутизация
