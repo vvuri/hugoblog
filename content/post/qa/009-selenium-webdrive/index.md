@@ -1,5 +1,5 @@
 ---
-tegories: []
+categories: []
 Tags: ["QA","Selenium"]
 Description: ""
 menu: 
@@ -9,8 +9,6 @@ date: "2017-11-20T23:27:56+03:00"
 title: "Selenium WebDriver"
 ---
 
-
-
 Selenium WebDriver    
 
 - ```bash # pip install selenium ```
@@ -18,7 +16,7 @@ Selenium WebDriver
 - [Документация перевод](http://selenium2.ru/docs.html)
 - [Оригинальная документация](http://www.seleniumhq.org/docs/)
 - [Для Python](http://selenium-python.readthedocs.io/)
-
+<!--more-->
 - Selenium server необходим в случаях, когда вы хотите использовать remote WebDriver 
 - Selenium server написан на языке Java. Для его запуска рекомендована среда Java Runtime Environment (JRE) версии 1.6 или выше.
 ```bash	java -jar selenium-server-standalone-2.x.x.jar ```

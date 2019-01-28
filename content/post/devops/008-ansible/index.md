@@ -9,6 +9,9 @@ date: "2019-01-23"
 title: "Первые шаги с Ansible"
 ---
 
+**Ansible** — система управления конфигурациями, написанная на Python. 
+Используется для автоматизации настройки и развертывания программного обеспечения, управления Linux-узлами.
+<!--more-->
 #### Install
 ```bash
 $ sudo apt-get install python-pip python-yaml python-jinja2 python-paramiko -y

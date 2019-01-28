@@ -12,7 +12,7 @@ title = "YAML"
 - все, что правильно для JSON, годится и для YAML.
 - По сути yaml - это расширение json. Или json подмножество yaml :)
 - удобно писать конфиги, которые конвертятся в json
-
+<!--more-->
 ```yaml
 multiliners:
     ugly_multiline: "ugly\nugly\nugly\nugly\n"

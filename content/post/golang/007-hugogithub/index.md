@@ -113,3 +113,7 @@ $ git clone https://github.com/spech66/bootstrap-bp-hugo-theme.git
 - Golang
 - JavaScript
 - Hobby
+
+19. Структура шаблона
+- contenr_summary.html это таблица с сокращенными формами - основаня страница
+- content.html шаблон для конкретной страницы
