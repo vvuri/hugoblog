@@ -6,7 +6,7 @@ menu:
     main:
         parent: "DevOps"
 date: "2017-11-20T23:27:56+03:00"
-title: "GIT"
+title: "Работа с репозиторием"
 ---
 
 #### GIT GITLAB 

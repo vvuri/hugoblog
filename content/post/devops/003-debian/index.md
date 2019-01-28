@@ -16,7 +16,7 @@ $ lscpu
 $ free 
 $ dpkg --print-architecture - архитектура ПК
 ```
-
+<!--more-->
 #### мониторинг всего:
 ```bash
 # netstat -lnp 

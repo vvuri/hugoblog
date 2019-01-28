@@ -1,12 +1,16 @@
 ---
 title: "Hugo on GitHub"
-date: 2018-12-10T22:47:58+03:00
+date: 2018-12-10
 tags: ["github", "JavaScript", "Golang" ]
 description: "Разработка"
 category: "Developmen"
+menu: 
+    main:
+        parent: "Golang"
 ---
 
 Разнесение кода и статических страниц в двух репозиториях
+<!--more-->
 1. Создаем репозиторий и клонируем его 
 ```bash
 $ git clone https://github.com/vvuri/hugoblog.git
@@ -80,8 +84,32 @@ $ git add .
 $ git commit -m "New Public"
 $ git push -u origin master
 ```
-15. Другая тема
+15. Другая тема - так же в темах
 ```
 $ cd themes
 $ git clone https://github.com/spech66/bootstrap-bp-hugo-theme.git
+
 ```
+16. Переновсим и редактируем из темы файлы в layouts
+
+17. Особенности формления:
+- созадем каталоги 000-название-статьи
+- статья называется index.md 
+- разделитель теста в списке `<!--more-->`
+- картинки:
+  - *feature* небольшая в общем оглавлении
+  - *motivation* в основном блоке
+- меню через 
+  ```
+  menu: 
+      main:
+          parent: "QA testing"
+  ```
+
+18. Menu:
+- DevOps
+- Python and ML
+- QA testing
+- Golang
+- JavaScript
+- Hobby

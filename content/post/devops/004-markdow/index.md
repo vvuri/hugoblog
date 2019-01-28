@@ -10,10 +10,10 @@ menu:
         parent: "DevOps"
 ---
 
-Достаточно подробно https://learn.getgrav.org/content/media
+Достаточно подробно на [getgrav](https://learn.getgrav.org/content/media)
 описана так же шапка - это линки на папки и маршрутизация
 отличный 
-редактор с двумя окнами под win free http://markdownpad.com/
+редактор с двумя окнами под [win free](http://markdownpad.com/)
 <!--more-->
 
 # h1 Heading
