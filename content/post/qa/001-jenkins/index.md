@@ -6,7 +6,7 @@ menu:
     main:
         parent: "QA testing"
 date: "2017-11-20T23:27:56+03:00"
-title: "Jenkins"
+title: "Работа с Jenkins"
 ---
 
 **Jenkins** - инструмент автоматизации. Бесплатен. 

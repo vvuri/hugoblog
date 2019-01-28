@@ -6,7 +6,7 @@ menu:
     main:
         parent: "DevOps"
 date: "2019-01-23"
-title: "Ansible"
+title: "Первые шаги с Ansible"
 ---
 
 #### Install

@@ -1,11 +1,13 @@
-+++
-Categories = ["Mac"]
-Tags = ["DevOps","Mac","OSX"]
-menu = "devops"
-date = "2019-01-23"
-title = "Горячие клавиши Mac OS X"
-Description = "Раскладка клавиатуры, горячие клавиши, особенности Hakintosh"
-+++
+---
+categories: ["Mac"]
+tags: ["DevOps","Mac","OSX"]
+menu: 
+    main:
+        parent: "DevOps"
+date: "2019-01-23"
+title: "Горячие клавиши Mac OS X"
+description: "Раскладка клавиатуры, горячие клавиши, особенности Hakintosh"
+---
 
 Клавиатура со своими особенностями и обозначениями:
 - Command (или Cmd) ⌘
