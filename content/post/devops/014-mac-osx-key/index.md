@@ -5,7 +5,7 @@ menu:
     main:
         parent: "DevOps"
 date: "2019-01-23"
-title: "Горячие клавиши Mac OS X"
+title: "Горячие клавиши OS X"
 description: "Раскладка клавиатуры, горячие клавиши, особенности Hakintosh"
 ---
 
@@ -16,7 +16,7 @@ description: "Раскладка клавиатуры, горячие клави
 - Control (или Ctrl) ⌃
 - Caps Lock ⇪
 - Fn
-
+<!--more-->
 ```
 Раскладка клавиш клавиатур:
 Macintosh [Fn-ноут] [Control-Ctrl] [Option-Alt] [Command-Cmd] [---] [Command-Cmd] [Option-Alt]

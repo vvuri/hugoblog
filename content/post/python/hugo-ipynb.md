@@ -7,7 +7,7 @@ category: "Developmen"
 ---
 
 Добавляем возможность интеграции Jupyter файлов, как статических данных
-
+<!--more-->
 Попробовал следующий варинт:
 ```bash
 $ pip install hugo_jupyter
